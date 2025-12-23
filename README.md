@@ -1,4 +1,7 @@
-# Vehicle-Rentals-using-OOP-Concept
-This is a console-based Vehicle Rental Application developed using Java and Object-Oriented Programming (OOP) concepts. The application allows only one user to register and log in, rent vehicles, and proceed to payment.
+Vehicle-Rentals-using-OOP-Concept
 
-The project is built without any frontend or database. All functionality is handled using Java classes and runtime memory.
+A console-based Vehicle Rental Application developed in Java using Object-Oriented Programming (OOP) principles. The application allows a single user to register, log in, rent vehicles, and complete payment.
+
+The project does not use any frontend or database; all operations are handled through Java classes and runtime memory. To enhance the console experience, colored text and blinking messages are used for better readability and user interaction.
+
+This project demonstrates effective use of core OOP concepts in a simple, terminal-based application.
