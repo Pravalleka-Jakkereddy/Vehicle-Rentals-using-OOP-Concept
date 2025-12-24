@@ -4,4 +4,4 @@ A console-based Vehicle Rental Application developed in Java using Object-Orient
 
 The project does not use any frontend or database; all operations are handled through Java classes and runtime memory. To enhance the console experience, colored text and blinking messages are used for better readability and user interaction.
 
-This project demonstrates effective use of core OOP concepts in a simple, terminal-based application
+This project demonstrates effective use of core OOP concepts in a simple, terminal-based application.
