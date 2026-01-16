@@ -4,4 +4,4 @@ A console-based Vehicle Rental Application developed in Java, designed to demons
 
 To enhance the terminal-based user experience, the system incorporates colored and blinking console messages along with animated ASCII visuals, such as a moving car animation displayed in the command prompt. Upon successful payment, the application generates and presents a structured invoice directly in the console.
 
-This project highlights effective use of core Java, OOP design, and creative console-based UI techniques within a lightweight, terminal-driven application.
+This project highlights effective use of core Java, OOP design, and creative console-based UI techniques within a lightweight, terminal-driven application
