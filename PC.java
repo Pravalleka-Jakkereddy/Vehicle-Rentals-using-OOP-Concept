@@ -1,10 +1,3 @@
-/*Modifications :
-1.In the Signup "Email" starts with Alphabets and may contain numbers, special characters and ends with "@gmail.com".(done)
-2.In the "login with email" ask register email and password. email does not match the register email give 3 chances for enter correct email then provide 1.Login with email 2.Login with phone number 3.Exit options. If password incorrect then provide 3 chances for enter correct password after 3 chances over then provide password reset option. In that Password reset ask register phone number if user not give same phone number give 3 chances for enter same number after over then provide 1.Login with email 2.Login with phone number 3.Exit options. if enters correct one then generate OTP then give "Enter new Password:" it should not match with old password.
-3. In the Vehicles selected module "Do you want to add another vehicle (y/n)" after this if user select "y" provide to user "Our Services- 1.Two Wheeler 2.Four Wheeler 3.Exit". 
-4.In the Payment Module after user select "2.Add more Vehicles" option provide to user "Our Services- 1.Two Wheeler 2.Four Wheeler 3.Exit". 
-5.In the Payment if user not give register phone number after he's chances are over diaplay "Not found user with this phone number! Moving to Home Page" provide 1.Signup 2.login 3.exit. 6.In the login module In the 1.login with email if user not give register email after his chances over then Diaplay "Not found user with this email" provide 1.Signup 2.login 3.exit. 
-7.In the login module In the 1.login with phone number if user not give register phone number after his chances over then Diaplay "Not found user with this phone number" provide 1.Signup 2.login 3.exit. these are the modifications remaining logic was same not change it only change modify these.*/
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -672,4 +665,5 @@ public class PC{
         public int getHours() { return hours; }
         public double getAmount() { return amount; }
     }
+
 }
