@@ -6,5 +6,4 @@ To enhance the terminal-based user experience, the system incorporates colored a
 
 This project highlights effective use of core Java, OOP design, and creative console-based UI techniques within a lightweight, terminal-driven application.
 
-
  
